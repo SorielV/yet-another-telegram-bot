@@ -1,2 +1,2 @@
-# yet-another-telegram-bot
+# Yet Another TelegramBot :tada:
 TelegramBot
